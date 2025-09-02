@@ -12,3 +12,4 @@ C:\Users\DESU COMP SOLUTION\HelloCSharp\obj\Debug\net8.0\refint\HelloCSharp.dll
 C:\Users\DESU COMP SOLUTION\HelloCSharp\obj\Debug\net8.0\HelloCSharp.pdb
 C:\Users\DESU COMP SOLUTION\HelloCSharp\obj\Debug\net8.0\HelloCSharp.genruntimeconfig.cache
 C:\Users\DESU COMP SOLUTION\HelloCSharp\obj\Debug\net8.0\ref\HelloCSharp.dll
+c:\Users\DESU COMP SOLUTION\HelloCSharp\obj\Debug\net8.0\HelloCSharp.sourcelink.json
